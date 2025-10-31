@@ -1,6 +1,4 @@
-# Arduino-L298D-LCD-Control
-مشروع تينكركاد لالتحكم بمحركين DC بواسطة L298D وعرض الحالة على شاشة I2C LCD.
-# 🤖 مشروع تاسك الأردوينو: التحكم بالمحركات والشاشة
+# 🤖 مشروع الأردوينو: التحكم بالمحركات والشاشة ( Arduino-L298D-LCD-Control )
 
 هذا المشروع هو تطبيق عملي لتاسك تدريبي على منصة Tinkercad. يتضمن المشروع بناء دائرة للتحكم في حركة روبوت (محركين DC) وعرض حالته الحالية على شاشة LCD.
 
@@ -59,11 +57,11 @@
 
 ### 1. مخطط التوصيلات (Wiring Diagram)
 
-![مخطط الدائرة](Fabulous Jaiks-Kieran.png)
+![مخطط الدائرة](FabulousJaiks-Kieran.png)
 
 ### 2. الدائرة أثناء التشغيل (Working Simulation)
 
-![صورة الدائرة وهي تعمل](image_9968f6.png)
+![صورة الدائرة وهي تعمل](A.png)
 
 ---
 
@@ -75,7 +73,6 @@
 * **[ملف الكود (Arduino_Motor_Task.ino)](./Arduino_Motor_Task.ino)**
 
 ### 2. ملف تصميم اللوحة (Board File)
-* **[ملف الكود (Fabulous Jaiks-Kieran.brd)](./Fabulous Jaiks-Kieran.brd)**
-Fabulous Jaiks-Kieran.brd
+* **[ملف الكود (Fabulous Jaiks-Kieran.brd)](./FabulousJaiks-Kieran.brd)**
 
 هذا الملف يحتوي على بيانات تصميم لوحة الدائرة (PCB) كما تم تصديرها من Tinkercad.
